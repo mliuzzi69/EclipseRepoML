@@ -11,6 +11,8 @@ public class testingGitEclipse {
 		
 		System.out.println("Testing 8");
 		
+		System.out.println("Testing 9");
+		
 	}
 
 }
