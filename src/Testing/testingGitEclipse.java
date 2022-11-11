@@ -6,5 +6,11 @@ public class testingGitEclipse {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public static void test8(){
+		
+		System.out.println("Testing 8");
+		
+	}
 
 }
